@@ -1,19 +1,49 @@
-# CodeAlpha To-Do List
+# CodeAlpha - Task Submissions (June Batch)
 
-This is a to-do list web app created as part of the CodeAlpha June Batch task submission.
+This repository contains task submissions for the CodeAlpha June Internship Batch.
 
+---
 
-# Task 1 - Todo List
-## Features
-- Add, delete, and complete tasks
-- LocalStorage support (tasks stay even after refresh)
-- Responsive design
-- Clean UI with smooth user interaction
+## 📝 Task 1: To-Do List
 
-## Tech Stack
+A responsive and interactive to-do list web application with LocalStorage support.
+
+### ✅ Features
+- Add, delete, and mark tasks as complete
+- Tasks are saved in LocalStorage (persistent even after refresh)
+- Responsive design for desktop and mobile
+- Clean UI with smooth user experience
+
+### 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
 
-## Author
-Zeeshan Ahmad  
+---
+
+## ⏳ Task 2: Age Calculator
+
+A simple web-based age calculator that takes the user's date of birth and shows their current age in years, months, and days.
+
+### ✅ Features
+- User inputs date of birth
+- Calculates accurate age in years, months, and days
+- Input validation (empty or future dates handled)
+- Clean and responsive UI
+
+### 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript (Date object and manual calculations)
+
+---
+
+## 👨‍💻 Author
+
+**Zeeshan Ahmad**  
+
+---
+
+## 📌 Note
+
+This submission is part of the [CodeAlpha](https://codealpha.tech/) Internship Program - June 2025 Batch.
