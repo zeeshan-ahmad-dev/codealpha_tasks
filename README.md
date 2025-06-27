@@ -2,6 +2,8 @@
 
 This is a to-do list web app created as part of the CodeAlpha June Batch task submission.
 
+
+# Task 1 - Todo List
 ## Features
 - Add, delete, and complete tasks
 - LocalStorage support (tasks stay even after refresh)
